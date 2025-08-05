@@ -1,4 +1,6 @@
-## Hi there 👋
+Hello
+
+Currently a student trying to learn how to write better code
 
 <!--
 **GuneetV/GuneetV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
